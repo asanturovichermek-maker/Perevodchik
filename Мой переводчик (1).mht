@@ -1,0 +1,125 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://hRqHsGYCYmtUzfv:OSrSL6FwtDkc2Ca@localhost:16432/storage/emulated/0/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA.html
+Subject: =?utf-8?Q?=D0=9C=D0=BE=D0=B9=20=D0=BF=D0=B5=D1=80=D0=B5=D0=B2=D0=BE=D0=B4?=
+ =?utf-8?Q?=D1=87=D0=B8=D0=BA?=
+Date: Mon, 19 Oct 2026 02:56:01 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--7BN0XuDQqV0MgwE5mZ0OcT3Np4wepEtDhw044tNiaY----"
+
+
+------MultipartBoundary--7BN0XuDQqV0MgwE5mZ0OcT3Np4wepEtDhw044tNiaY----
+Content-Type: text/html
+Content-ID: <frame-967E9BF58E857A9F15B90A72EE5B4EBE@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://hRqHsGYCYmtUzfv:OSrSL6FwtDkc2Ca@localhost:16432/storage/emulated/0/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA.html
+
+<!DOCTYPE html><html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Мой переводчик</title>
+  <link rel="stylesheet" href="http://hRqHsGYCYmtUzfv:OSrSL6FwtDkc2Ca@localhost:16432/storage/emulated/0/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA.css">
+</head>
+<body>
+  <main class="app">
+    <h1>🌍 Переводчик</h1>
+    <p class="subtitle">Переводи слова и предложения</p>
+
+    <div class="languages">
+      <select id="source">
+        <option value="ru">Русский</option>
+        <option value="en">Английский</option>
+        <option value="ky">Кыргызский</option>
+        <option value="tr">Турецкий</option>
+        <option value="de">Немецкий</option>
+        <option value="fr">Французский</option>
+        <option value="es">Испанский</option>
+        <option value="zh-CN">Китайский</option>
+        <option value="ja">Японский</option>
+      </select>
+
+      <button id="swap" class="swap">⇄</button>
+
+      <select id="target">
+        <option value="en">Английский</option>
+        <option value="ru">Русский</option>
+        <option value="ky">Кыргызский</option>
+        <option value="tr">Турецкий</option>
+        <option value="de">Немецкий</option>
+        <option value="fr">Французский</option>
+        <option value="es">Испанский</option>
+        <option value="zh-CN">Китайский</option>
+        <option value="ja">Японский</option>
+      </select>
+    </div>
+
+    <label for="inputText">Текст для перевода</label>
+    <textarea id="inputText" placeholder="Напиши здесь текст..." maxlength="3000"></textarea>
+
+    <button id="translate" class="translate">
+      Перевести
+    </button>
+
+    <label for="outputText">Перевод</label>
+    <textarea id="outputText" placeholder="Здесь появится перевод..." readonly=""></textarea>
+
+    <div class="actions">
+      <button id="copy">📋 Копировать</button>
+      <button id="clear">🗑 Очистить</button>
+    </div>
+
+    <p id="status" role="status">Готов к переводу</p>
+    <p class="footer">Мой первый проект ❤️</p>
+  </main>
+
+  
+
+</body></html>
+------MultipartBoundary--7BN0XuDQqV0MgwE5mZ0OcT3Np4wepEtDhw044tNiaY----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://hRqHsGYCYmtUzfv:OSrSL6FwtDkc2Ca@localhost:16432/storage/emulated/0/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; padding: 20px 12px; min-height: 100vh; font-family: Arial, sans-serif; background: linear-gradient(135deg, rgb(16, 23, 45), rgb(37, 61, 104)); color: white; }
+
+.app { width: 100%; max-width: 500px; margin: 20px auto; padding: 22px; background: rgb(27, 39, 66); border-radius: 22px; box-shadow: rgba(0, 0, 0, 0.333) 0px 10px 35px; }
+
+h1 { text-align: center; margin-bottom: 8px; }
+
+.subtitle { text-align: center; color: rgb(185, 200, 230); margin-bottom: 25px; }
+
+.languages { display: flex; align-items: center; gap: 8px; margin-bottom: 22px; }
+
+select { width: 0px; flex: 1 1 0%; min-width: 0px; padding: 12px 4px; border: 1px solid rgb(82, 103, 137); border-radius: 10px; background: rgb(38, 56, 88); color: white; font-size: 14px; }
+
+button { border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 10px; padding: 13px; font-size: 15px; font-weight: bold; cursor: pointer; touch-action: manipulation; }
+
+button:active { transform: scale(0.97); }
+
+.swap { background: rgb(51, 73, 110); color: white; font-size: 22px; }
+
+label { display: block; margin: 14px 0px 8px; color: rgb(219, 231, 255); font-weight: bold; }
+
+textarea { display: block; width: 100%; height: 125px; resize: vertical; padding: 14px; border-radius: 12px; border: 1px solid rgb(82, 103, 137); background: rgb(17, 28, 50); color: white; font-size: 16px; line-height: 1.5; }
+
+textarea::placeholder { color: rgb(135, 152, 184); }
+
+.translate { width: 100%; margin: 18px 0px 10px; background: rgb(79, 131, 255); color: white; font-size: 17px; }
+
+.translate:disabled { opacity: 0.6; }
+
+#outputText { background: rgb(32, 47, 74); }
+
+.actions { display: flex; gap: 10px; margin-top: 12px; }
+
+.actions button { flex: 1 1 0%; background: rgb(51, 73, 110); color: white; }
+
+#status { min-height: 20px; text-align: center; color: rgb(185, 208, 255); font-size: 14px; margin-top: 18px; overflow-wrap: anywhere; }
+
+.footer { text-align: center; color: rgb(135, 152, 184); font-size: 13px; margin-bottom: 0px; }
+------MultipartBoundary--7BN0XuDQqV0MgwE5mZ0OcT3Np4wepEtDhw044tNiaY------
